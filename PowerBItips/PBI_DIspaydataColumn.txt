@@ -1,0 +1,5 @@
+script to change time
+Column = v_AllRedemptions[EnteredDate] -12/24
+
+script edit data 
+RegistredOn Day = FORMAT(Registrations[RegisteredOn], "mm/dd/yyyy" )
